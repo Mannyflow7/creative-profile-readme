@@ -1505,3 +1505,146 @@ Make your Profile look good & Inspire other's. Don't forget to leave :star: if y
     <summary>Preview</summary>
     <img loading="lazy" src="EXAMPLES/ZamranxD.webp">
   </details>
+The Apache Software License, Version 2.0, http://www.apache.org/licenses/LICENSE-2.0.txtEclipse Public License - v 1.0, http://www.eclipse.org/legal/epl-v10.htmlFacebook Platform License, https://github.com/facebook/FBNotifications/blob/master/LICENSEFacebook Platform License, https://github.com/facebook/facebook-android-sdk/blob/master/LICENSE.txtProprietary, http://www.appsflyer.comApache License 2.0, https://api.github.com/licenses/apache-2.0Amazon Software License, http://aws.amazon.com/asl/http://aws.amazon.com/asl/BSD 2-Clause License, https://github.com/BoltsFramework/Bolts-Android/blob/master/LICENSEhttps://github.com/facebook/facebook-android-sdk/blob/master/LICENSE.txtg3dd9rsqb3rpvbrocpsmeanssuccesshttps://maps.google.com/?q=Home+8211+Dominguin+St%2C+Orlando%2C+FL+32817&ftid=0x0:0xaa1e2b87ba32b854&entry=gpshttps://maps.google.com/?q=Home+8211+Dominguin+St%2C+Orlando%2C+FL+32817&ftid=0x0:0xaa1e2b87ba32b854&entry=gpsID: 387-000-0447https://gifthub.club/https://docs.aws.amazon.com/lambda/latest/api/API_AddPermission.html#API_AddPermission_Errors(arn:(aws[a-zA-Z-]*)?:lambda:)?([a-z]{2}(-gov)?-[a-z]+-\d{1}:)?(\d{12}:)?(function:)?([a-zA-Z0-9-_]+)(:(\$LATEST|[a-zA-Z0-9Link Copied
+HTTP/1.1 201
+Content-type: application/json
+
+{
+   "Architectures": [ "string" ],
+   "CodeSha256": "string",
+   "CodeSize": number,
+   "DeadLetterConfig": { 
+      "TargetArn": "string"
+   },
+   "Description": "string",
+   "Environment": { 
+      "Error": { 
+         "ErrorCode": "string",
+         "Message": "string"
+      },
+      "Variables": { 
+         "string" : "string" 
+      }
+   },
+   "EphemeralStorage": { 
+      "Size": number
+   },
+   "FileSystemConfigs": [ 
+      { 
+         "Arn": "string",
+         "LocalMountPath": "string"
+      }
+   ],
+   "FunctionArn": "string",
+   "FunctionName": "string",
+   "Handler": "string",
+   "ImageConfigResponse": { 
+      "Error": { 
+         "ErrorCode": "string",
+         "Message": "string"
+      },
+      "ImageConfig": { 
+         "Command": [ "string" ],
+         "EntryPoint": [ "string" ],
+         "WorkingDirectory": "string"
+      }
+   },
+   "KMSKeyArn": "string",
+   "LastModified": "string",
+   "LastUpdateStatus": "string",
+   "LastUpdateStatusReason": "string",
+   "LastUpdateStatusReasonCode": "string",
+   "Layers": [ 
+      { 
+         "Arn": "string",
+         "CodeSize": number,
+         "SigningJobArn": "string",
+         "SigningProfileVersionArn": "string"
+      }
+   ],
+   "LoggingConfig": { 
+      "ApplicationLogLevel": "string",
+      "LogFormat": "string",
+      "LogGroup": "string",
+      "SystemLogLevel": "string"
+   },
+   "MasterArn": "string",
+   "MemorySize": number,
+   "PackageType": "string",
+   "RevisionId": "string",
+   "Role": "string",
+   "Runtime": "string",
+   "RuntimeVersionConfig": { 
+      "Error": { 
+         "ErrorCode": "string",
+         "Message": "string"
+      },
+      "RuntimeVersionArn": "string"
+   },
+   "SigningJobArn": "string",
+   "SigningProfileVersionArn": "string",
+   "SnapStart": { 
+      "ApplyOn": "string",
+      "OptimizationStatus": "string"
+   },
+   "State": "string",
+   "StateReason": "string",
+   "StateReasonCode": "string",
+   "Timeout": number,
+   "TracingConfig": { 
+      "Mode": "string"
+   },
+   "Version": "string",
+   "VpcConfig": { 
+      "Ipv6AllowedForDualStack": boolean,
+      "SecurityGroupIds": [ "string" ],
+      "SubnetIds": [ "string" ],
+      "VpcId": "string"
+   }
+}import path from "path"
+
+const name = await Promise.resolve("world")
+
+export function get() {6cf7aaedc3c29e17cbbfded21bf6a5356e98e7484c0df21b2d2325c880289cca5925d4e2892f24cbimport path from "path"<html>
+  <body>
+    <h1>Hello Extensions</h1>
+    <script src="popup.js"></script>
+  </body>
+</html>Hey! I use Dali to generate awesome arts. You should give it a try. https://app.adjust.com/1d1711fgThe terms of this agreement were approved by the OASIS Open Board of Directors on 26 January 2021
+MEMBERSHIP AGREEMENT: OPEN PROJECT
+This Agreement establishes the terms of your organization’s membership in OASIS Open and the terms of your Open
+Project sponsorship.
+PROJECT SPONSOR BENEFITS
+You will be eligible for all Sponsor benefits in the Open Project named in this Agreement and all other membership benefits
+provided by OASIS Open rules and procedures. 
+If your organization submits an Entity Contributor License Agreement, you may be represented on the Project Governing
+Board (with the right to vote on the project’s governance and releases). Otherwise, you will be recognized as a Sponsor
+for the project but will not be eligible for the PGB and will not be listed as having made organizational license commitments
+to the Project.
+SPECIFIC PROGRAMS; LICENSING OBLIGATIONS
+You agree to abide by the licensing obligations of the Open Project as shown in each repository’s License file. The licensing
+rules in the Open Project Rules, which specify how and when further commitments can be terminated are found at:
+https://oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licenses 
+Persons affiliated with your organization who make technical contributions to the Open Project are still required to submit 
+an Individual Contributor License Agreement, and their right to contribute also will be subject to your agreement under an
+Entity CLA. The necessary forms, links and instructions are posted on the Project website.
+CONSORTIUM MEMBERSHIP RIGHTS & OBLIGATIONS
+As a Voting Member of the OASIS Open nonprofit corporation, your organization is eligible to cast a maximum of one vote
+in all consortium-wide and governance ballots, regardless of how many Technical Committees, Open Projects, or other
+activities you are engaged in and to receive all other member benefits provided by our rules and procedures.
+You agree that, while you are an OASIS Open member, you will abide by the terms of the Bylaws and the Antitrust Policy
+of OASIS Open, as posted on our website on the date of this Agreement. If these policies are changed in a way that
+materially impairs your rights, OASIS Open will notify you at least 30 days in advance, allowing you to withdraw from
+membership should you object. No changes to those documents will have retroactive effect.
+MEMBERSHIP TERM
+Your membership commences when this Agreement is signed by both parties. You agree to timely pay the dues applicable
+for members sponsoring Open Projects as posted at https://www.oasis-open.org/join-an-open-project/ 
+Your membership will renew annually on the anniversary date of this agreement, pending confirmation from you and OASIS
+in writing. You may reactivate a lapsed membership by initiating a new membership subscription and thereby reaffirming
+your original Membership Agreement. 
+You represent that you will meet the qualifications for the membership and dues categories you have selected and agree
+to notify OASIS Open if you cease to meet those qualifications. 
+Your membership may be terminated at any time by you (for any reason) or by OASIS Open (for nonpayment of dues or
+for cause). On termination or withdrawal, any outstanding dues remain payable, and no refund will be made of dues already
+paid. 
+Any transfer of your membership requires OASIS Open’s written consent and may require a new membership.https://oasis-open.org/policies-guidelines/open-projects-process/#repository-specification-licensesbc1q8ecec7q6t57uy24x0ed3axn3kw086u6gg9y49abc1qqgfk568kg552mxzzyr4qk77yj7tjna3a6kz3usbc1qt55v2u2va8833qpa2tzmqepugeq5yha037gl0sbc1qaqg6a38r4glu4wsvfrnjcf0d4jqm07jvemy798
